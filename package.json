@@ -1,0 +1,10 @@
+{
+  "name": "api-client-sample",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Small sample client for a JSON messages API.",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
